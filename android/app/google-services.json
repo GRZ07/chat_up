@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "589158296636",
+    "project_id": "chat-up-683c7",
+    "storage_bucket": "chat-up-683c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589158296636:android:f502534a8c889766f92739",
+        "android_client_info": {
+          "package_name": "com.example.chat_up"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589158296636-ksa728c18da22mi7thujmf99357d54t7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLe9sfaOAKqbfcsh0tZJTW8VfT_WkxuzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "589158296636-ksa728c18da22mi7thujmf99357d54t7.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "589158296636-4rai7pan8e3kp5u0vl6pf137alkcjg4p.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.chatUp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
