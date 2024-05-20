@@ -9,7 +9,7 @@ Future<bool?> toastInfo({
 }) {
   return Fluttertoast.showToast(
     msg: msg,
-    toastLength: Toast.LENGTH_SHORT,
+    toastLength: Toast.LENGTH_LONG,
     gravity: ToastGravity.TOP,
     timeInSecForIosWeb: 5,
     backgroundColor: backgroundColor,

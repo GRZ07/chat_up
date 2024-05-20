@@ -23,7 +23,7 @@ To get started with the app, follow these steps:
 1. **Clone the repository:**
 
    ```sh
-   git clone https://github.com/yourusername/messaging-app.git
+   git clone https://github.com/grz07/chatup.git
    cd messaging-app
    ```
 
@@ -66,10 +66,6 @@ Contributions are welcome! If you find any bugs or have feature requests, please
 2. **Create a new branch**
 3. **Make your changes**
 4. **Submit a pull request**
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contact
 
